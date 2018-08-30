@@ -25,8 +25,6 @@ public class MathTester {
     System.out.println("firstNumber * secondNumber is " + (firstNumber*secondNumber));
     System.out.println("The modulus of the secondNumber by the firstNumber is " + (secondNumber%firstNumber));
 */
-
-
-    }
+        }
     }
 
