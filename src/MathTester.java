@@ -3,6 +3,18 @@ public class MathTester {
 
     public static void main(String[] args) {
 
+        int firstNumber = 25;
+        int secondNumber = 38;
+
+        if(secondNumber<firstNumber); {
+            System.out.print(secondNumber +" is less than "+ firstNumber);
+            else(firstNumber>secondNumber);
+
+        }
+
+
+
+/*
         String firstWord;
         String secondWord;
         int firstNumber, secondNumber, total;
@@ -14,7 +26,7 @@ public class MathTester {
         total = firstNumber + secondNumber;
         System.out.println(total);
         total = total + 10;
-        System.out.println(total);
+        System.out.println(total);*/
 
 
     /*System.out.println(firstWord+secondWord);
@@ -25,6 +37,7 @@ public class MathTester {
     System.out.println("firstNumber * secondNumber is " + (firstNumber*secondNumber));
     System.out.println("The modulus of the secondNumber by the firstNumber is " + (secondNumber%firstNumber));
 */
-        }
     }
+}
+
 
